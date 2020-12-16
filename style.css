@@ -10,12 +10,12 @@ body{
     display: flex;
     justify-content: center;
     font-family: 'Langar', cursive;
-    color: rgb(185, 185, 34);
+    color: rgb(238, 238, 232);
 }
 .main-div p{
     display: flex;
     justify-content: center;
-    color:yellowgreen;
+    color:rgb(238, 238, 232);
 }
 .io{
     display: flex;
@@ -46,7 +46,7 @@ textarea{
     color: brown;
 }
 #tran:hover{
-    background-color:rgb(185, 185, 34);
+    background-color: rgb(238, 238, 232);
     color: cornsilk;
 }
 
